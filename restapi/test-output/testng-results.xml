@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1283" started-at="2020-03-24T08:03:52Z" finished-at="2020-03-24T08:03:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1283" started-at="2020-03-24T08:03:52Z" finished-at="2020-03-24T08:03:53Z">
+      <class name="com.qa.test.GetAPITest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.GetAPITest@573f2bb1]" name="setup" is-config="true" duration-ms="4" started-at="2020-03-24T13:33:52Z" finished-at="2020-03-24T13:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc_01()[pri:1, instance:com.qa.test.GetAPITest@573f2bb1]" name="tc_01" duration-ms="971" started-at="2020-03-24T13:33:52Z" finished-at="2020-03-24T13:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.GetAPITest@573f2bb1]" name="setup" is-config="true" duration-ms="0" started-at="2020-03-24T13:33:53Z" finished-at="2020-03-24T13:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc_02()[pri:2, instance:com.qa.test.GetAPITest@573f2bb1]" name="tc_02" duration-ms="295" started-at="2020-03-24T13:33:53Z" finished-at="2020-03-24T13:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02 -->
+      </class> <!-- com.qa.test.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
